@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-10-07T08:31:09.015Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.2 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="jIHGpNDztcqQ9c9146Xv" version="22.0.2" type="device">
+  <diagram name="Page-1" id="mdBl8qPQBGC2aFiUuEaK">
+    <mxGraphModel dx="2735" dy="2623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J2NBPFnv9JhLP338ppIg-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-20" width="1240" height="569.75" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-10" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;VTEP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="169" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-11" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Virtual server&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="256.5" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-12" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;VTEP&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1099" y="183.37" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=5;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1454" y="269.8699999999999" as="sourcePoint" />
+            <mxPoint x="1198" y="269.8699999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;strokeWidth=5;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="285.94" as="sourcePoint" />
+            <mxPoint x="-66" y="285.94" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-27" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="261.5" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-28" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="221.5" width="92.86" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-29" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Virtual server&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="235" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-30" value="" style="shape=mxgraph.cisco.computers_and_peripherals.ibm_mainframe;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1449" y="200" width="92.86" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-32" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1108.5" y="240" width="101" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="J2NBPFnv9JhLP338ppIg-33" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;IP Network&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="243.37" width="200" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
